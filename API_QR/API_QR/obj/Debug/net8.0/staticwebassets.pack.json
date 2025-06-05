@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-1-table-B01.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-1-table-B01.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-1-table-B02.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-1-table-B02.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-1-table-B03.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-1-table-B03.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-1-table-B04.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-1-table-B04.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-1-table-E1.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-1-table-E1.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-1-table-E5.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-1-table-E5.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-3-table-A01.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-3-table-A01.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-3-table-A02.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-3-table-A02.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-3-table-A03.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-3-table-A03.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-3-table-A04.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-3-table-A04.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-3-table-A05.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-3-table-A05.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-3-table-A06.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-3-table-A06.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\qrcodes\\restaurant-3-table-B1.png",
+      "PackagePath": "staticwebassets\\qrcodes\\restaurant-3-table-B1.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\uploads\\05e18db9-723d-4f3c-a4f7-4d4f4083bce3.jfif",
+      "PackagePath": "staticwebassets\\uploads\\05e18db9-723d-4f3c-a4f7-4d4f4083bce3.jfif"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\uploads\\13817feb-36fc-408f-95c8-a1f7f88cdaf0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\13817feb-36fc-408f-95c8-a1f7f88cdaf0.jpg"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\uploads\\d4eb27b5-c938-4dea-bc0a-39119eec8d33.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d4eb27b5-c938-4dea-bc0a-39119eec8d33.jpg"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\uploads\\d7473427-0eca-4661-969e-d617440a0d7e.png",
+      "PackagePath": "staticwebassets\\uploads\\d7473427-0eca-4661-969e-d617440a0d7e.png"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\uploads\\d942e5b7-f790-489c-affe-59ae920ac7a1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d942e5b7-f790-489c-affe-59ae920ac7a1.jpg"
+    },
+    {
+      "Id": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\wwwroot\\uploads\\dea28ae9-ed22-458f-817d-6d0db61c6ca1.JPG",
+      "PackagePath": "staticwebassets\\uploads\\dea28ae9-ed22-458f-817d-6d0db61c6ca1.JPG"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.API_QR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.API_QR.props",
+      "PackagePath": "build\\API_QR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.API_QR.props",
+      "PackagePath": "buildMultiTargeting\\API_QR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.API_QR.props",
+      "PackagePath": "buildTransitive\\API_QR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Size",
+    "values": [ "Nhỏ", "Vừa", "Lớn" ]
+  },
+  {
+    "name": "Độ ngọt",
+    "values": [ "Ít", "Vừa", "Nhiều" ]
+  }
+]
