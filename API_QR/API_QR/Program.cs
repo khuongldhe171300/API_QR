@@ -74,7 +74,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     };
 });
 
-builder.Services.AddAuthorization();
+//builder.Services.AddAuthorization();
 
 // === CORS (nếu gọi từ client bên ngoài) ===
 builder.Services.AddCors(options =>
@@ -91,11 +91,10 @@ var app = builder.Build();
 
 
 // === Middlewares ===
-if (app.Environment.IsDevelopment())
-{
+
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+
 app.UseStaticFiles(); // mặc định sẽ cho phép truy cập wwwroot/*
 app.UseStaticFiles(new StaticFileOptions
 {
