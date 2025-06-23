@@ -50,6 +50,8 @@ builder.Services.AddSwaggerGen(c =>
 
 builder.Services.AddDbContext<SmartQrdineOptimizedContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MyCnn")));
+Console.WriteLine($"[DEBUG] Using connection string: {builder.Configuration.GetConnectionString("MyCnn")}");
+
 
 
 builder.Services.AddScoped<IVnPayService, VnPayService>();
@@ -74,9 +76,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     };
 });
 
-//builder.Services.AddAuthorization();
+builder.Services.AddAuthorization();
 
-// === CORS (nếu gọi từ client bên ngoài) ===
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
@@ -90,12 +91,12 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 
 
-// === Middlewares ===
+
 
     app.UseSwagger();
     app.UseSwaggerUI();
 
-app.UseStaticFiles(); // mặc định sẽ cho phép truy cập wwwroot/*
+app.UseStaticFiles();
 app.UseStaticFiles(new StaticFileOptions
 {
     FileProvider = new PhysicalFileProvider(

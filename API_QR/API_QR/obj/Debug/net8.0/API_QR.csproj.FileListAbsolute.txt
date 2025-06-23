@@ -310,3 +310,4 @@ D:\toyeucode\API_QR\API_QR\API_QR\obj\Debug\net8.0\refint\API_QR.dll
 D:\toyeucode\API_QR\API_QR\API_QR\obj\Debug\net8.0\API_QR.pdb
 D:\toyeucode\API_QR\API_QR\API_QR\obj\Debug\net8.0\API_QR.genruntimeconfig.cache
 D:\toyeucode\API_QR\API_QR\API_QR\obj\Debug\net8.0\ref\API_QR.dll
+D:\toyeucode\API_QR\API_QR\API_QR\obj\Debug\net8.0\API_QR.sourcelink.json

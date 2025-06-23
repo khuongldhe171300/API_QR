@@ -3,15 +3,39 @@
   "WorkspaceRootPath": "D:\\toyeucode\\API_QR\\API_QR\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|d:\\toyeucode\\api_qr\\api_qr\\api_qr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|solutionrelative:api_qr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|d:\\toyeucode\\api_qr\\api_qr\\api_qr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|solutionrelative:api_qr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\exe\\API_QR\\API_QR\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|d:\\toyeucode\\api_qr\\api_qr\\api_qr\\models\\smartqrdineoptimizedcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|solutionrelative:api_qr\\models\\smartqrdineoptimizedcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|d:\\toyeucode\\api_qr\\api_qr\\api_qr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|solutionrelative:api_qr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|d:\\toyeucode\\api_qr\\api_qr\\api_qr\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|solutionrelative:api_qr\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|d:\\toyeucode\\api_qr\\api_qr\\api_qr\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|solutionrelative:api_qr\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\toyeucode\\API_QR\\API_QR\\publish\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:publish\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|d:\\toyeucode\\api_qr\\api_qr\\api_qr\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|solutionrelative:api_qr\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|d:\\toyeucode\\api_qr\\api_qr\\api_qr\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB736DD-EA47-4258-AB60-FB4C6A0F9EDA}|API_QR\\API_QR.csproj|solutionrelative:api_qr\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\exe\\API_QR\\API_QR\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,11 +45,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "SmartQrdineOptimizedContext.cs",
+              "DocumentMoniker": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\Models\\SmartQrdineOptimizedContext.cs",
+              "RelativeDocumentMoniker": "API_QR\\Models\\SmartQrdineOptimizedContext.cs",
+              "ToolTip": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\Models\\SmartQrdineOptimizedContext.cs",
+              "RelativeToolTip": "API_QR\\Models\\SmartQrdineOptimizedContext.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:40:38.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "API_QR\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "API_QR\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAOEBAAAAAAAAAAAWwPgBAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:00:54.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "API_QR\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "API_QR\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAmwOwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:53:25.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\exe\\API_QR\\API_QR\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\..\\exe\\API_QR\\API_QR\\appsettings.json",
@@ -37,28 +97,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\Program.cs",
               "RelativeDocumentMoniker": "API_QR\\Program.cs",
               "ToolTip": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\Program.cs",
               "RelativeToolTip": "API_QR\\Program.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAUwEwAAAAmAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAGkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T01:39:58.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\appsettings.json",
               "RelativeDocumentMoniker": "API_QR\\appsettings.json",
               "ToolTip": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\appsettings.json",
               "RelativeToolTip": "API_QR\\appsettings.json",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-05T01:39:34.822Z"
+              "WhenOpened": "2025-06-05T01:39:34.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API_QR\\appsettings.Development.json",
+              "ToolTip": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\appsettings.Development.json",
+              "RelativeToolTip": "API_QR\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T02:36:26.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\toyeucode\\API_QR\\API_QR\\publish\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "publish\\appsettings.Development.json",
+              "ToolTip": "D:\\toyeucode\\API_QR\\API_QR\\publish\\appsettings.Development.json",
+              "RelativeToolTip": "publish\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T16:40:09.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TablesController.cs",
+              "DocumentMoniker": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\Controllers\\TablesController.cs",
+              "RelativeDocumentMoniker": "API_QR\\Controllers\\TablesController.cs",
+              "ToolTip": "D:\\toyeucode\\API_QR\\API_QR\\API_QR\\Controllers\\TablesController.cs",
+              "RelativeToolTip": "API_QR\\Controllers\\TablesController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwCYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:01:45.671Z"
             }
           ]
         },
